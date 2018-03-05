@@ -1,0 +1,6 @@
+E:\软件开发\PBF\PBF\PBF\bin\Debug\PBF.dll
+E:\软件开发\PBF\PBF\PBF\bin\Debug\PBF.pdb
+E:\软件开发\PBF\PBF\PBF\bin\Debug\BouncyCastle.Crypto.dll
+E:\软件开发\PBF\PBF\PBF\obj\Debug\PBF.csprojResolveAssemblyReference.cache
+E:\软件开发\PBF\PBF\PBF\obj\Debug\PBF.dll
+E:\软件开发\PBF\PBF\PBF\obj\Debug\PBF.pdb
